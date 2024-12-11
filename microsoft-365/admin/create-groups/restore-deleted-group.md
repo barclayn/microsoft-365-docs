@@ -44,7 +44,7 @@ When a group is restored, the following content is restored:
 - Power BI [Classic workspace](/power-bi/collaborate-share/service-create-workspaces)
 
 > [!NOTE]
-> This article describes restoring only Microsoft 365 groups. All other groups cannot be restored once deleted.
+> This article describes restoring only Microsoft 365 groups. Soft-delete is available for both M365 groups with assigned membership and M365 groups with dynamic membership. At this time, soft delete is not available for security groups.
 
 ## Restore a group
 
